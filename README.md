@@ -19,7 +19,7 @@ sales-retail-analysis/
 ├── README.md     # Project overview
 └── requirements.txt  # Package dependencies
 
-🔍 Project Modules
+## 🔍 Project Modules
 1. Sales Analysis
 Analyze product trends and seasonality
 
@@ -41,7 +41,7 @@ Perform clustering and sentiment analysis
 
 Visual storytelling with branded dashboards
 
-🧠 Tools & Techniques
+## 🧠 Tools & Techniques
 pandas, NumPy for preprocessing
 
 matplotlib, seaborn for visualization
@@ -50,7 +50,7 @@ scikit-learn for modeling and clustering
 
 .keras and .tflite formats for lightweight model deployment
 
-🎯 Outcomes
+## 🎯 Outcomes
 Strategic insights for retail and marketing teams
 
 Reusable templates for data-driven storytelling
@@ -60,10 +60,11 @@ Lightweight deployable models for demo purposes
 ## 🌍 Author
 Built by Leonard Phokane, combining data science, ethical AI, and visual branding to empower real-world impact in local communities.
 
-🎨 Portfolio Spotlight: Leonard Phokane
+## 🎨 Portfolio Spotlight: Leonard Phokane
 Beyond this certification project, I’ve built a range of community-driven and ethically grounded tech solutions. Explore my portfolio to see how I merge creative coding, AI, and blockchain with social impact:
 
-🌍 Portfolio Website → phokane-creative-code.lovable.app 💼 Featuring:
+🌍 Portfolio Website → phokane-creative-code.lovable.app 
+## 💼 Featuring:
 
 KaziLink: A job-matching platform uplifting local communities
 
@@ -73,6 +74,7 @@ Recycle Dataset: ML-powered waste classification for environmental impact
 
 📱 Skills in Flutter, TensorFlow Lite, Blockchain, Firebase, and more
 
-"Technology is most powerful when it amplifies human potential and creates opportunities for those who need them most." — Leonard Phokane
+"Technology is most powerful when it amplifies human potential and creates opportunities for those who need them most." 
+— Leonard Phokane
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-purple?style=for-the-badge&logo=internet-explorer)](https://phokane-creative-code.lovable.app/)
