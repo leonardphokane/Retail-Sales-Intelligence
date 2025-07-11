@@ -7,10 +7,10 @@
 
 This project is part of Microsoft’s Data Science certification module and focuses on uncovering insights from sales, retail, and marketing datasets using Python. Built with a strong analytical backbone and branded visual storytelling, the project demonstrates predictive modeling, customer segmentation, and campaign impact analysis.
 
-🛍️ Sales Retail Analysis
+## 🛍️ Sales Retail Analysis
 A data-driven storytelling notebook visualizing monthly revenue trends and regional performance using Python, pandas, seaborn, and matplotlib. Designed to uncover insights for strategic retail decisions across Limpopo, Gauteng, and KZN.
 
-🚀 Key Features
+## 🚀 Key Features
 📈 Monthly Revenue Trends: Detect seasonality and spikes
 
 🗺️ Regional Revenue Comparison: Identify high-performing markets
@@ -21,7 +21,7 @@ A data-driven storytelling notebook visualizing monthly revenue trends and regio
 
 🎨 Modular Plotting Toolkit: Scripts for reusable visuals
 
-🧰 Project Structure
+
 
 ## 📦 Repository Structure
 
