@@ -63,7 +63,8 @@ Built by Leonard Phokane, combining data science, ethical AI, and visual brandin
 ## 🎨 Portfolio Spotlight: Leonard Phokane
 Beyond this certification project, I’ve built a range of community-driven and ethically grounded tech solutions. Explore my portfolio to see how I merge creative coding, AI, and blockchain with social impact:
 
-🌍 Portfolio Website → phokane-creative-code.lovable.app 
+🌍 Portfolio Website → [phokane-creative-code.lovable.app](https://phokane-creative-code.lovable.app)
+ 
 ## 💼 Featuring:
 
 KaziLink: A job-matching platform uplifting local communities
