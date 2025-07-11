@@ -9,7 +9,7 @@ This project is part of Microsoft’s Data Science certification module and focu
 
 ## 📦 Repository Structure
 
-```plaintext
+
 sales-retail-analysis/
 ├── data/         # Raw and cleaned datasets
 ├── notebooks/    # Jupyter walkthroughs
